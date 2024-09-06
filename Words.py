@@ -1,0 +1,22 @@
+words = [
+    {"dutch": "de", "english": "the"},
+    {"dutch": "en", "english": "and"},
+    {"dutch": "van", "english": "of"},
+    {"dutch": "ik", "english": "I"},
+    {"dutch": "te", "english": "to"},
+    {"dutch": "dat", "english": "that"},
+    {"dutch": "is", "english": "is"},
+    {"dutch": "niet", "english": "not"},
+    {"dutch": "een", "english": "a"},
+    {"dutch": "het", "english": "the"},
+    {"dutch": "je", "english": "you"},
+    {"dutch": "in", "english": "in"},
+    {"dutch": "we", "english": "we"},
+    {"dutch": "wat", "english": "what"},
+    {"dutch": "ze", "english": "they"},
+    {"dutch": "hij", "english": "he"},
+    {"dutch": "zijn", "english": "his"},
+    {"dutch": "op", "english": "on"},
+    {"dutch": "er", "english": "there"},
+    {"dutch": "voor", "english": "for"}
+]
